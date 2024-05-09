@@ -14,7 +14,7 @@
 - Identify which tables in the data are of interest with the help of the Business Request form.
 - Choose which columns are of interest to export by preparing and transforming these columns in SQL using concepts such as: renaming columns, combining columns, commenting in SQL script, formatting of SQL statements, WHERE clause, ORDER BY, LEFT JOIN, CASE() function and ISNULL() function. 
 
-### Create Dashboard in Power BI
+### Create a Dashboard using Power BI
 - Load Data
 - Organize & Prepare Tables
 - Connect Tables for Data Model
@@ -33,4 +33,11 @@
 - Pivot Table
 
 ### Dashboard
+![image](https://github.com/Aziz-fer/Sales-Analysis-KPI-with-SQL-and-PowerBI-main/assets/64703046/7f71079b-248f-4276-91cd-6daddaac5c54)
+
+![image](https://github.com/Aziz-fer/Sales-Analysis-KPI-with-SQL-and-PowerBI-main/assets/64703046/d207b0fd-bd3d-4b65-bbd0-a0ff3dabb312)
+
+![image](https://github.com/Aziz-fer/Sales-Analysis-KPI-with-SQL-and-PowerBI-main/assets/64703046/6bbe6e7a-cf27-4aed-8c2c-680af2ab4eb1)
+
+
 
